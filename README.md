@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm mainly a Python programmer though I've experimented with C++, Go and Java. 
 I've contributed to several open source projects and have made some of my own,
 
-#### My Projects 🛠️
+### My Projects 🛠️
 - [DungeonCli](http://pavela.net:3000/Daniel/DungeonCli) - A dungeon-crawler game where you explore places, find coins, buy stuff and more! 
 
 ![image](http://pavela.net:3000/Daniel/DungeonCli/raw/branch/master/Screenshots/scrollingtext.gif)
@@ -14,3 +14,8 @@ I've contributed to several open source projects and have made some of my own,
 
 <img src="https://raw.githubusercontent.com/daniel071/material-calc/master/Screenshots/secondVersion.png" alt="Image"
 	title="Image" width="350"/>
+
+### Get in touch ✉️
+- Discord - Daniel071#0141
+- IRC on FreeNode - Daniel071
+- Email - daniel.pavela@gmail.com
