@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**daniel071/daniel071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mainly a Python programmer though I've experimented with C++, Go and Java. 
+I've contributed to several open source projects and have made some of my own,
 
-Here are some ideas to get you started:
+#### My Projects 🛠️
+- [DungeonCli](http://pavela.net:3000/Daniel/DungeonCli) - A dungeon-crawler game where you explore places, find coins, buy stuff and more! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](http://pavela.net:3000/Daniel/DungeonCli/raw/branch/master/Screenshots/scrollingtext.gif)
+- [Youtube Downloader](https://github.com/daniel071/Youtube_Downloader) - Want an easy way to download youtube videos without any malware? This simple Python program is lightweight and open source!
+
+![image](https://raw.githubusercontent.com/daniel071/images-for-readme/master/Screenshot%20from%202020-02-03%2019-10-01.png)
+- [Material Calculator](https://github.com/daniel071/material-calc) - A simple Android app that does exactly what its named, it calculates!
+
+<img src="https://raw.githubusercontent.com/daniel071/material-calc/master/Screenshots/secondVersion.png" alt="Image"
+	title="Image" width="350"/>
