@@ -1,7 +1,7 @@
 ![My banner](https://raw.githubusercontent.com/daniel071/images-for-readme/master/banner%20v3.4.png)
 ## Hi there 👋
 
-I'm mainly a Python programmer though I've experimented with C++, Go and Java. 
+I'm mainly a Python programmer though I've experimented with Rust, C++, Go and Java. 
 I've contributed to several open source projects and have made some of my own,
 
 ### My Projects 🛠️
