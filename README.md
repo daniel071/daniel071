@@ -4,7 +4,7 @@
 I'm mainly a Python programmer though I've experimented with Rust, C++, Go and Java. 
 I've contributed to several open source projects and have made some of my own.
 
-[Check out my website for more details!](http://pavela.net/)
+[Check out my website for more details!](https://pavela.net/)
 
 ### Get in touch ✉️
 - Discord - Daniel071#0141
