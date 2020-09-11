@@ -7,6 +7,7 @@ I've contributed to several open source projects and have made some of my own.
 [Check out my website for more details!](https://pavela.net/)
 
 ### Get in touch ✉️
+- [Matrix](https://matrix.org) - @daniel071:matrix.org 
+- IRC on Freenode - Daniel071
 - Discord - Daniel071#0141
-- IRC on FreeNode - Daniel071
-- Email - daniel.pavela@gmail.com
+- Email - daniel.pavela(at)gmail.com
