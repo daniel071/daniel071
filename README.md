@@ -8,6 +8,6 @@ I've contributed to several open source projects and have made some of my own.
 
 ### Get in touch ✉️
 - [Matrix](https://matrix.org) - [@daniel071:matrix.org](https://matrix.to/#/@daniel071:matrix.org)
-- IRC on Freenode - Daniel071
+- IRC on Libera.chat & OFTC - Daniel071
 - Discord - Daniel071#0141
 - Email - daniel.pavela(at)gmail.com
