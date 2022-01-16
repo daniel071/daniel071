@@ -1,4 +1,7 @@
 ![My banner](https://raw.githubusercontent.com/daniel071/images-for-readme/master/banner%20v3.4%20cropped.png)
+<a href="https://pavela.net">
+  <img align="right" src="https://komarev.com/ghpvc/?username=daniel071&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
 ## Hi there 👋
 
 I'm mainly a Python programmer though I've experimented with Rust, C++, Go and Java. 
